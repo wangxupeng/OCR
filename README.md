@@ -10,6 +10,7 @@
   * [1.1.STN_notes](./Documents/STN_notes.pdf)
   * [1.2.TPS_notes](./Documents/TPS_notes.docx)
   * [1.3.Aster code](https://github.com/bgshih/aster)
+* [2.CTPN](https://github.com/binaoye/chinese_ocr-master)
 ### 数据集
 * [1.中文数据集](https://pan.baidu.com/s/1QkI7kjah8SPHwOQ40rS1Pw)
   * 密码：lu7m

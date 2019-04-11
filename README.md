@@ -25,3 +25,4 @@
 * [2.SynthText_Chinese_version(自然场景的文字生成)](https://github.com/JarveeLee/SynthText_Chinese_version)
 * [3.印刷体文字生成](https://github.com/Belval/TextRecognitionDataGenerator)
 * [4.印刷体文字生成之中文](https://github.com/Sanster/text_renderer)
+* [5.text-detector-experience](https://github.com/Yuanhang8605/pixel-anchor-link-and-text-detector-experience)

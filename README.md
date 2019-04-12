@@ -13,6 +13,7 @@
 * [2.CTPN](https://github.com/eragonruan/text-detection-ctpn)
   * [2.1.CTPN + DenseNet + CTC](https://github.com/binaoye/chinese_ocr-master)
   * [2.2.CTPN_notes](https://github.com/wangxupeng/OCR/blob/master/Documents/CTPN-notes.docx)
+* [3.Faster-rcnn_notes](https://github.com/wangxupeng/OCR/blob/master/Documents/Faster-RCNN.docx)
 ### 数据集
 * [1.中文数据集](https://pan.baidu.com/s/1QkI7kjah8SPHwOQ40rS1Pw)
   * 密码：lu7m

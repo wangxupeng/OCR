@@ -13,6 +13,7 @@
 * [2.CTPN](https://github.com/eragonruan/text-detection-ctpn)
   * [2.1.CTPN + DenseNet + CTC](https://github.com/binaoye/chinese_ocr-master)
   * [2.2.CTPN_notes](https://github.com/wangxupeng/OCR/blob/master/Documents/CTPN-notes.docx)
+  * [2.3.CTPN+CRNN+CTC(Keras)](https://github.com/xiaomaxiao/keras_ocr)
 * [3.Faster-rcnn_notes](https://github.com/wangxupeng/OCR/blob/master/Documents/Faster-RCNN.docx)
 * [4.CRNN+CTC_notes](https://github.com/wangxupeng/OCR/blob/master/Documents/CRNN%2BCTC_notes.pdf)
 ### 数据集
